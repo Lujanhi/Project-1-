@@ -1,11 +1,11 @@
 
-//project 1 - A Random Quote Generator by Alex Lujan
+                                  //project 1 - A Random Quote Generator by Alex Lujan
 
-//array to hold qoutes,name,source,citation.and years.
+                                  //array to hold qoutes,name,source,citation.and years.
 
 //Quote # 1 //
 var quotes = [{ 
-    quote: "Life is just a chance to grow a soul",
+    quote: "Life is just a chance to grow a soul",                            // a string in side property
     source: "A Powell Davies",
     citation: "website",
     year: "1961,",
