@@ -7,15 +7,15 @@
 var quotes = [{
   quote: "Life is just a chance to grow a soul",                            // a string in side property
   source: "A Powell Davies",
-  citation: "website",
+  citation: "website 1",
   year: "1961,",
   tags: "tag 1", // EXTRA CREDIT//
 },
 { //Quote # 2 //
   quote: "Only a life lived for others is a life worthwhile",
   source: "Albert Einstein",
-  citation: "website",
-  year: "1962,",
+  citation: "website 2",
+  // no year to test IF statement
   tags: "tag 2",// EXTRA CREDIT//
 },
 {//Quote # 3 //
@@ -28,14 +28,14 @@ var quotes = [{
 {//Quote # 4 //
   quote: "Everything has beauty, but not everyone sees it",
   source: "A Powell Davies",
-  citation: "Confucius",
+  citation: "Confucius 4",
   year: "1964,",
   tags: "tag 4",// EXTRA CREDIT//
 },
 {//Quote # 5 //
   quote: "People living deeply have no fear of death",
   source: "Anais Nin",
-  citation: "website",
+  citation: "website 5",
   year: "1965,",
   // no tags to test the IF statement
 }];
