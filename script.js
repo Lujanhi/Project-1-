@@ -100,7 +100,7 @@ var quotes = [{
   
   // refresh frunction
   function refresh() {
-    var timer = setInterval(printQuote, 20000);            // sets the timer to (every 20 seconds)
+    var timer = setInterval(printQuote, 10000);            // sets the timer to (every 20 seconds)
   }
     refresh();                                             // calls the refresh
   
